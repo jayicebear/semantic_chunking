@@ -1,8 +1,8 @@
 
-# PDF Semantic Chunking Pro  
+# PDF Semantic Chunking  
 **PDF 한 방에 → 의미 단위로 똑똑하게 쪼개진 고품질 청크**  
-기업 내부 문서, 매뉴얼, 규정집, 데이터 거버넌스 가이드 PDF를  
-→ **시맨틱 청킹**으로 RAG에 바로 넣을 수 있게 변환!
+기업 내부 문서, 매뉴얼, 규정집, 데이터 거버넌스 가이드 PDF를 Docling MD 파일로 변환  
+→ **Semantic Chunking**으로 RAG에 바로 넣을 수 있게 변환!
 
 > 기존 fixed-size 청킹은 잊으세요. 이제는 **문맥이 끊기지 않는 진짜 의미 단위 청크**를 만듭니다.
 
